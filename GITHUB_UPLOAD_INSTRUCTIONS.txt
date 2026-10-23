@@ -1,0 +1,33 @@
+AAARON COMMERCIAL SERVICES LLC - WEBSITE APPROVAL PREVIEW
+===================================================
+This is the STATIC GitHub Pages build of the AAARON website.
+The home page (index.html), Arabic page, and assets folder are at the ZIP root.
+
+STEPS
+1. Extract this ZIP on your computer.
+2. Create a GitHub repository named AAARON-Website-Approval (Public).
+3. In the repository, click Add file > Upload files.
+4. Drag the EXTRACTED CONTENTS (index.html, Arabic_Default.html,
+   assets folder, .nojekyll, and this file) onto the upload area.
+   Do NOT upload only the .zip file, and do NOT nest the entire extracted
+   folder inside the repository.
+5. Click Commit changes to main.
+6. Go to Settings > Pages > Build and deployment.
+7. Set Source = Deploy from a branch; Branch = main; Folder = /(root).
+8. Click Save. Check Pages or Actions for the live preview URL.
+9. Share the resulting link with your boss for review.
+
+Example link: https://YOUR-USERNAME.github.io/AAARON-Website-Approval/
+
+WHAT WORKS IN STATIC PREVIEW
+- English / Arabic, product catalogue, blog, page transitions, photo slider.
+- WhatsApp and email links; local chat responses where supported.
+
+BACKEND FEATURES NOT INCLUDED
+- SMTP form submission, RFQ file upload backend and live AI responses require
+  separately hosting the Node.js server, and will not run on GitHub Pages.
+- Never publish .env files or API keys to GitHub.
+
+IMPORTANT: GitHub Pages previews are publicly accessible (not password-gated).
+Review contact details, product claims, brand permissions and imagery before
+sharing or publishing. To run full backend later, use the ORIGINAL source ZIP.
